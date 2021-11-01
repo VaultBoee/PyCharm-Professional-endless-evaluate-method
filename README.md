@@ -1,9 +1,9 @@
 # PyCharm-Professional-endless-evaluate-method
 PyCharm Setup:
-1. Download an old version here: Windows | Linux | MacOS (As of 2021.2.3, you will need to create a JetBrains Account every month to evaluate)
+1. Download an old version here: [Windows](https://drive.google.com/file/d/15UmNCOx6lrXKvi3hG28Ygy9qpeJunAp8/view?usp=sharing) | [Linux](https://drive.google.com/file/d/1PwG60La2eHUtRQLXYd-Ln_06UlhdQ13s/view?usp=sharing) | [MacOS](https://drive.google.com/file/d/1-pRemVPMb1VnJ7gMAD5bgpIv2RxSwa-d/view?usp=sharing) (As of 2021.2.3, you will need to create a [JetBrains Account](https://account.jetbrains.com/licenses) every month to evaluate)
 2. Install as usual and don't update PyCharm for now
 Plugin setup:
-1. Download plugin here - link
+1. Download plugin here - [link](https://drive.google.com/file/d/11GSYEZG2nvvV-DYeAZOGGgn8pr0lx25h/view?usp=sharing)
 2. Go to PyCharm File -> Settings -> Plugins -> (Gear icon) -> Install plugin from disk...
 
 ![image](https://user-images.githubusercontent.com/54596184/139697573-c00f361c-bfc3-4df3-8eea-94a082bc9d2a.png)
@@ -23,3 +23,4 @@ Plugin setup:
 ![4](https://user-images.githubusercontent.com/54596184/139698131-9c860c2d-4b08-4c68-a3a4-32c9710d7cfc.png)
 
 Don't forget to open PyCharm at least once per month or you need to do all the things again.
+
